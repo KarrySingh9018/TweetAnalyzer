@@ -1,4 +1,4 @@
-# Holmes-Network
+# TweetAnalyzer
 #### A tool for analytics of tweets.
 ###### Prerequisites: (node.js, npm, Elasticsearch)
 
